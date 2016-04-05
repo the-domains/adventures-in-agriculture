@@ -1,7 +1,7 @@
 name: Adventures In Agriculture
 favicon: null
-layout_spectrum: 0.46815
-typography_spectrum: 0.74016
+layout_spectrum: 0.76643
+typography_spectrum: 0.4374
 cta:
   domain: null
   bucket: null
@@ -21,8 +21,8 @@ color:
     - '#353e53'
     - '#8a6a4d'
     - '#a32021'
-  brandStrength: 0.2790338739287108
-  lightness: 0.8129471994470805
-  saturation: 0.43012120155617595
-  rhythmicContrast: 0.19252731930464506
+  brandStrength: 0.1875
+  lightness: 0.5
+  saturation: 0.1875
+  rhythmicContrast: 0.5
 purpose: []
