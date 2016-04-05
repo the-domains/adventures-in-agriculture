@@ -1,7 +1,7 @@
 name: Adventures In Agriculture
 favicon: null
-layout_spectrum: 0.9394437693990767
-typography_spectrum: 0.15403314982540905
+layout_spectrum: 0.46815
+typography_spectrum: 0.74016
 cta:
   domain: null
   bucket: null
@@ -16,11 +16,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#71A7FE'
-    - '#399AE7'
-    - '#3B407C'
-    - '#547AB1'
-    - '#CEAFC0'
+    - '#5496bb'
+    - '#9bbacd'
+    - '#353e53'
+    - '#8a6a4d'
+    - '#a32021'
   brandStrength: 0.2790338739287108
   lightness: 0.8129471994470805
   saturation: 0.43012120155617595
