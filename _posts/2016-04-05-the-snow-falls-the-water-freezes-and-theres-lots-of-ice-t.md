@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'The snow falls, the water freezes, and there’s lots of ice to break. But the cold can bring more than just work and in between water tanks, it’s easy to run into a good time.'
-datePublished: '2016-04-05T19:26:10.423Z'
-dateModified: '2016-04-05T19:26:05.740Z'
+datePublished: '2016-04-05T19:55:57.642Z'
+dateModified: '2016-04-05T19:41:19.906Z'
 title: ''
 author: []
+sourcePath: _posts/2016-04-05-the-snow-falls-the-water-freezes-and-theres-lots-of-ice-t.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-04-05-the-snow-falls-the-water-freezes-and-theres-lots-of-ice-t.md
-published: true
 url: the-snow-falls-the-water-freezes-and-theres-lots-of-ice-t/index.html
 _type: Article
 
@@ -44,6 +44,6 @@ Snowboarding down the sides of a manure pile.
 
 Yes, it's smelly, but it's more fun than most of the other ways you get dirty on a farm.
 
-Fun is where you find it. ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f1db7b0e-9f4a-43b2-b003-efd87f38c9c1.png)
+Fun is where you find it. 
 
 _Audra Brown always keeps a sacrificial snowboard in the back of the pickup.  _
