@@ -3,21 +3,21 @@ inFeed: true
 hasPage: true
 inNav: true
 inLanguage: null
-starred: false
+starred: true
 keywords: []
-description: 'http://eepurl.com/bW_L6n'
-datePublished: '2016-04-07T22:47:21.140Z'
-dateModified: '2016-04-07T22:46:42.268Z'
+description: 'SIGN UP FOR SOME ADVENTURE IN YOUR INBOX!'
+datePublished: '2016-04-11T14:28:56.247Z'
+dateModified: '2016-04-11T14:28:48.224Z'
 title: Subscribe to the AinAg Email List
 author: []
+sourcePath: _posts/2016-04-07-subscribe-to-the-ainag-email-list.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-04-07-subscribe-to-the-ainag-email-list.md
-published: true
 url: subscribe-to-the-ainag-email-list/index.html
 _type: Article
 
