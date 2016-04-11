@@ -5,10 +5,10 @@ inNav: false
 inLanguage: null
 starred: false
 keywords: []
-description: About the Author
-datePublished: '2016-04-05T19:58:04.720Z'
-dateModified: '2016-04-05T19:57:02.538Z'
-title: ''
+description: 'Audra Brown was born on the Texas-Arizona border, grew up in West-West-Texas, and is still living and working on the High Plains of New Mexico.'
+datePublished: '2016-04-11T14:30:19.181Z'
+dateModified: '2016-04-11T14:28:25.438Z'
+title: About the Author
 author: []
 sourcePath: _posts/2016-04-05-about-the-author.md
 published: true
@@ -22,7 +22,7 @@ url: about-the-author/index.html
 _type: Article
 
 ---
-About the Author
+# About the Author
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/52de6814-1c51-4d84-b8a2-5e459057f4bf.png)
 
 Audra Brown was born on the Texas-Arizona border, grew up in West-West-Texas, and is still living and working on the High Plains of New Mexico.
