@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: 'Order the Book '
-datePublished: '2016-04-30T01:09:30.575Z'
-dateModified: '2016-04-30T01:08:38.749Z'
+datePublished: '2016-04-30T01:10:43.822Z'
+dateModified: '2016-04-30T01:10:35.161Z'
 title: ''
 author: []
 sourcePath: _posts/2016-04-30-order-the-book.md
@@ -17,7 +17,7 @@ publisher:
   domain: null
   url: null
   favicon: null
-starred: false
+starred: true
 url: order-the-book/index.html
 _type: Article
 
