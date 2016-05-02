@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'Adventures in Agriculture: Volume 1'
-datePublished: '2016-04-05T19:57:59.216Z'
-dateModified: '2016-04-05T19:57:00.126Z'
+datePublished: '2016-05-02T17:53:01.122Z'
+dateModified: '2016-04-14T22:46:47.252Z'
 title: ''
 author: []
 sourcePath: _posts/2016-04-05-adventures-in-agriculture-volume-1.md
